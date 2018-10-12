@@ -14,6 +14,7 @@ public class TestGithub {
         System.out.println("det virker");
         System.out.println("pøls");
         System.out.println("det virker2");
+        //test
     }
     
 }
