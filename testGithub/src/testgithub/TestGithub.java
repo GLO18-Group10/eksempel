@@ -16,6 +16,7 @@ public class TestGithub {
         System.out.println("det virker2");
         //test
         //dette er kun i test2
+        //LUL
     }
     
 }
