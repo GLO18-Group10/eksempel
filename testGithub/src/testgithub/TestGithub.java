@@ -13,6 +13,7 @@ public class TestGithub {
         // TODO code application logic here
         System.out.println("det virker");
         System.out.println("pøls");
+        System.out.println("det virker2");
     }
     
 }
